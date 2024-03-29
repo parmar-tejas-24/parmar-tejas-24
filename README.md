@@ -7,7 +7,7 @@
 - 💻 **Programming Languages**: Python, JavaScript, C++, Java, SQL
 - 🌐 **Web Development**: HTML, CSS, React.js, Node.js, Express.js, Firebase
 - 📱 **App Development**: Flutter
-- 📊 **Data Analysis/ML**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyTorch
+- 📊 **Data Analytics/ ML**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyTorch
 - 🛢️ **Database Management**: MySQL, MongoDB
 - 📝 **Version Control**: Git, GitHub
 - 🛠️ **Tools & Frameworks**: RASA Framework, Flask, Python-dash, Mapbox-api
