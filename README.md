@@ -23,6 +23,7 @@
 - 📊 **Data Analytics**: I enjoy exploring and analyzing data to extract meaningful insights and drive informed decision-making.
 - 🌱 **Open Source**: I'm enthusiastic about contributing to open-source projects and collaborating with other developers to make a positive impact on the community.
 - 💹 **Finance**: I have a keen interest in finance and enjoy learning about financial markets, investments, and economic trends.
+- 🚀 **Entrepreneurship**: I'm inspired by entrepreneurship and the process of creating and scaling innovative ventures that address market needs.
 - 📚 **Continuous Learning**: My goal is to continually expand my knowledge and skills in technology, staying updated with the latest trends and advancements in the field.
 
 ---
