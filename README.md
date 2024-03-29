@@ -1,4 +1,26 @@
 ## Skills & Technologies
+<style>
+details {
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+details summary {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+details ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+details ul li {
+  margin-left: 20px;
+}
+</style>
 
 <details>
 <summary>Programming Languages</summary>
