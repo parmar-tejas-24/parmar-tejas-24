@@ -24,3 +24,15 @@
 - 🌱 **Open Source**: I'm enthusiastic about contributing to open-source projects and collaborating with other developers to make a positive impact on the community.
 - 💹 **Finance**: I have a keen interest in finance and enjoy learning about financial markets, investments, and economic trends.
 - 📚 **Continuous Learning**: My goal is to continually expand my knowledge and skills in technology, staying updated with the latest trends and advancements in the field.
+
+---
+
+## Contact
+
+📧 Email: [your.email@example.com](mailto:parmar.2@iitj.ac.in)
+
+🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/tejas-parmar-990832204/)
+
+📱 Phone: +91 6352709359
+
+📍 Location: Indian Institute of Technology Jodhpur, India
