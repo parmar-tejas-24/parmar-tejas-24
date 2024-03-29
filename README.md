@@ -1,22 +1,56 @@
-## Overview
+## Skills & Technologies
 
-👋 Hey there! I'm Tejas Parmar, a final year B.Tech student at IIT Jodhpur, passionate about technology and innovation. With a focus on development and data analytics, I thrive on solving complex problems and creating impactful solutions. My journey includes a blend of research, project development, and leadership roles, all aimed at driving positive change through technology.
+<details>
+<summary>Programming Languages</summary>
+<ul>
+  <li>Python</li>
+  <li>JavaScript</li>
+  <li>C++</li>
+  <li>Java</li>
+  <li>SQL</li>
+</ul>
+</details>
 
-### Skills & Technologies
+<details>
+<summary>Web Development</summary>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>React.js</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>Firebase</li>
+</ul>
+</details>
 
-- 💻 **Programming Languages**: Python, JavaScript, C++, Java, SQL
-- 🌐 **Web Development**: HTML, CSS, React.js, Node.js, Express.js, Firebase
-- 📱 **App Development**: Flutter
-- 📊 **Data Analytics/ ML**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyTorch
-- 🛢️ **Database Management**: MySQL, MongoDB
-- 📝 **Version Control**: Git, GitHub
-- 🛠️ **Tools & Frameworks**: RASA Framework, Flask, Python-dash, Mapbox-api
-- 💡 **Computer Science Fundamentals**: Data Structures and Algorithms (DSA), Object-Oriented Programming (OOPS), Database Management Systems (DBMS)
+<details>
+<summary>App Development</summary>
+<ul>
+  <li>Flutter</li>
+</ul>
+</details>
 
-### Interests & Goals
+<!-- Add more sections as needed -->
 
-- 🚀 **Development**: I'm passionate about creating user-friendly applications and websites that solve real-world problems and enhance user experiences.
-- 📊 **Data Analytics**: I enjoy exploring and analyzing data to extract meaningful insights and drive informed decision-making.
-- 🌱 **Open Source**: I'm enthusiastic about contributing to open-source projects and collaborating with other developers to make a positive impact on the community.
-- 💹 **Finance**: I have a keen interest in finance and enjoy learning about financial markets, investments, and economic trends.
-- 📚 **Continuous Learning**: My goal is to continually expand my knowledge and skills in technology, staying updated with the latest trends and advancements in the field.
+<details>
+<summary>Data Analysis/ML</summary>
+<ul>
+  <li>Pandas</li>
+  <li>NumPy</li>
+  <li>Matplotlib</li>
+  <li>Seaborn</li>
+  <li>Scikit-learn</li>
+  <li>PyTorch</li>
+</ul>
+</details>
+
+## Customization
+
+<details>
+<summary>GitHub Customization</summary>
+<ul>
+  <li>GitHub Actions for automating workflows</li>
+  <li>GitHub Pages for hosting portfolio/documentation</li>
+  <li>Explore plugins and themes for profile enhancement</li>
+</ul>
+</details>
