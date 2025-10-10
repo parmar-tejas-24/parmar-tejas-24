@@ -30,8 +30,8 @@
 
 ## Contact
 
-📧 Email: [send me an email](mailto:parmar.2@iitj.ac.in)
+📧 Email: [send me an email](mailto:parmar.tejas.2481@gmail.com)
 
-🔗 LinkedIn: [connect with me on LinkedIn](https://www.linkedin.com/in/tejas-parmar-990832204/)
+🔗 LinkedIn: [connect with me on LinkedIn](www.linkedin.com/in/parmartejas24)
 
-📍 Location: Indian Institute of Technology Jodhpur, India
+📍 Location: India
